@@ -6,13 +6,18 @@ Hello, world!
 **👋 Hi, there!**   
 I'm @riruhyun
 
-# I can do these:
-1. ![JavaScript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
-2. ![Node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+### My Skills
+1. ![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
+2. ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 3. ![C](https://img.shields.io/badge/C-blue.svg?style=for-the-badge&logo=c&logoColor=fff)
-4. ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-5. ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-6. ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
+4. ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+5. ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+6. ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
+7. ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
+8. ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
+---
+### Learning
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
 
 ### Stats
 ![riruhyun's Github Stats](https://github-readme-stats.vercel.app/api?username=riruhyun&count_private=true&show_icons=true)
