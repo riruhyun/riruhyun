@@ -1,6 +1,6 @@
-![GitHub followers](https://img.shields.io/github/followers/riruhyun?style=social)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/riruhyun?style=social)
 ![Github Forks](https://img.shields.io/github/forks/riruhyun/riruhyun?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/riruhyun?style=social)   
+![GitHub User's stars](https://img.shields.io/github/stars/riruhyun?style=social)   -->
 Hello, world!
 =
 **👋 Hi, there!**   
@@ -19,8 +19,8 @@ I'm @riruhyun
 ### Learning
 ![Kotlin](https://img.shields.io/badge/Kotlin-F0F0F0?style=for-the-badge&logo=Kotlin)
 
-### Stats
+<!-- ### Stats
 ![riruhyun's Github Stats](https://github-readme-stats.vercel.app/api?username=riruhyun&count_private=true&show_icons=true)
 
 ### Most Used Languages
-[![riruhyun's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riruhyun&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![riruhyun's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riruhyun&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
