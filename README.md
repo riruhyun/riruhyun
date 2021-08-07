@@ -17,7 +17,6 @@ I'm @riruhyun
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
 ---
 ### Learning
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)   
 ![Kotlin](https://img.shields.io/badge/Kotlin-F0F0F0?style=for-the-badge&logo=Kotlin)
 
 ### Stats
